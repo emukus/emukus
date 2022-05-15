@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @emukus
 - 👀 I’m interested in Software, Graphics & Design, Video Editing 
 - 🌱 I’m currently learning Software Engineering and DevOps at **ALX and _Holberton School_**
-- 💞️ I’m looking to collaborate on any ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) projects
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
 ## Technologies & Tools
