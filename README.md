@@ -6,7 +6,7 @@
 
 ## Technologies & Tools
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://GitHub.com/ "GitHub")
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/ "Git")
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.slack.com/ "Slack")
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white "Premiere Pro")
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.photoshop.com/ "Photoshop")
@@ -18,9 +18,10 @@
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=white)
 
 
 ### 😂 Here is a random joke that'll make you laugh!
