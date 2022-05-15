@@ -16,9 +16,11 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/website-builder/ "WordPress")
 
 ## Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=blue-green)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## GitHub Stats
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=blue-green)
 
 
 ### 😂 Here is a random joke that'll make you laugh!
