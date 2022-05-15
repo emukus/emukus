@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Graphic+Designer;Video+Editor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Budding+Software+Engineer;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
 
 ## Technologies & Tools
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
