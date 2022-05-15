@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @emukus
-- 👀 I’m interested in Software, Graphics & Design, Video Editing 
+- 👀 I’m interested in Software Development, Graphics & Design, and Video Editing 
 - 🌱 I’m currently learning Software Engineering and DevOps at **ALX and _Holberton School_**
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
