@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=white)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emukus&theme=blue-green)
 
 
 ### 😂 Here is a random joke that'll make you laugh!
