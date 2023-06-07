@@ -11,6 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=emukus&theme=onedark&rank=S,A)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Technologies & Tools
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.photoshop.com/ "Photoshop")
