@@ -5,10 +5,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @emukus
 
 - 👀 I have a passion for Software Development, Graphics & Design, and Video Editing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
-- 🌱 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
-- Currently learning Amazon Web Services at **ALX**
+- 🌴 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
+- 🌱 Currently learning Amazon Web Services at **ALX**
 - 💞️ I’m looking to collaborate on projects
-# 📫 How to reach me: [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukuna.eugene@gmail.com)
+## 📫 How to reach me: [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukuna.eugene@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
 
