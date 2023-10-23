@@ -8,7 +8,7 @@
 - 🌱 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
 - Currently learning Amazon Web Services at **ALX**
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
+- 📫 How to reach me mukuna.eugene@gmail.com
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
 
