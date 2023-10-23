@@ -4,13 +4,13 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @emukus
 
-- 👀 I have a passion for Software Development, Graphics & Design, and Video Editing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
+- 👀 I have a passion for Software Engineering, Web Development and Graphics & Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 - 🌴 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
 - 🌱 Currently learning Amazon Web Services at **ALX**
 - 💞️ I’m looking to collaborate on projects
 ## 📫 How to reach me: [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukuna.eugene@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering;Web+Development;Code+Testing;Graphic+Design;)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emukus&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
