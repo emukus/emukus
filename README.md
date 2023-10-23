@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Graphic+Designer;and+Video+Editor)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=emukus&theme=onedark&rank=S,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emukus&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technologies & Tools
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/ "Django")
