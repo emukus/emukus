@@ -6,7 +6,7 @@
 
 - 👀 I have a passion for Software Development, Graphics & Design, and Video Editing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 - 🌱 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
-- Currently learning Amazon Web Services at **_ALX_**
+- Currently learning Amazon Web Services at **ALX**
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
