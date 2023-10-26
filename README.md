@@ -1,8 +1,8 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @emukus
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @emukus
 
 - 👀 I have a passion for Software Engineering, Web Development and Graphics & Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">
 - 🌴 ~~Currently learning~~ Graduated in Software Engineering and DevOps at **ALX and _Holberton School_**
